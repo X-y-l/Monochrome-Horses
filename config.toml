@@ -1,6 +1,6 @@
 baseURL = "https://x-y-l.github.io/"
 title = "Monochrome Horses"
-paginate = 5
+paginate = 10
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
