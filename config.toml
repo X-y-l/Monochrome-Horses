@@ -1,0 +1,21 @@
+baseURL = "https://mono.co.uk"
+title = "Monochrome Horses"
+paginate = 5
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[author]
+  name = "George Townsend"
+  abstract = "I'm a second year mathematics student at the Univeristy of Bristol. My main branches of interest are Real Analysis, Probability and Linear Algebra, however I'm also really interested in puzzles and unexpected results in maths. To find out more, click my name at the bottom of the page."
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
